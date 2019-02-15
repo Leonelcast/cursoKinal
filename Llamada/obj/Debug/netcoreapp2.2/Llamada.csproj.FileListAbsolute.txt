@@ -1,0 +1,11 @@
+C:\Users\leone\Proyecto\Llamada\obj\Debug\netcoreapp2.2\Llamada.csprojAssemblyReference.cache
+C:\Users\leone\Proyecto\Llamada\obj\Debug\netcoreapp2.2\Llamada.csproj.CoreCompileInputs.cache
+C:\Users\leone\Proyecto\Llamada\obj\Debug\netcoreapp2.2\Llamada.AssemblyInfoInputs.cache
+C:\Users\leone\Proyecto\Llamada\obj\Debug\netcoreapp2.2\Llamada.AssemblyInfo.cs
+C:\Users\leone\Proyecto\Llamada\bin\Debug\netcoreapp2.2\Llamada.deps.json
+C:\Users\leone\Proyecto\Llamada\bin\Debug\netcoreapp2.2\Llamada.runtimeconfig.json
+C:\Users\leone\Proyecto\Llamada\bin\Debug\netcoreapp2.2\Llamada.runtimeconfig.dev.json
+C:\Users\leone\Proyecto\Llamada\bin\Debug\netcoreapp2.2\Llamada.dll
+C:\Users\leone\Proyecto\Llamada\bin\Debug\netcoreapp2.2\Llamada.pdb
+C:\Users\leone\Proyecto\Llamada\obj\Debug\netcoreapp2.2\Llamada.dll
+C:\Users\leone\Proyecto\Llamada\obj\Debug\netcoreapp2.2\Llamada.pdb
